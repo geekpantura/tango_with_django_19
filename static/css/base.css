@@ -1,0 +1,7 @@
+.home {
+    background:url("../images/rango.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    height: 100%;
+}
