@@ -1,2 +1,4 @@
 Django==1.10
+django-registration-redux==1.4
+django-toolbox==0.1
 Pillow==3.4.1
